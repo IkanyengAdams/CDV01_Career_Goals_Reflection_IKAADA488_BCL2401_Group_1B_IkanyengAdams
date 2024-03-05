@@ -2,10 +2,10 @@
 
 ### Personal Information
 
-- **Name:Ikanyeng Adams
-- **Date:04 march 2024
-- **Current Role/Position:Software Engineer student at codespace.
-- **Field of Interest:Full stack developer.
+- Name:Ikanyeng Adams
+- Date:04 march 2024
+- Current Role/Position:Software Engineer student at codespace.
+- Field of Interest:Full stack developer.
 
 ### Part 1: Self-Assessment Reflection
 
@@ -38,7 +38,7 @@
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
       
-    - Identify any gaps or areas for further exploration.
+    - I would like to fill up the gap of learning new Programming languages because Technolgies keeps on evolving, so I want to always be ahead.
 
 ### Part 3: SMART Career Goals
 
@@ -53,41 +53,41 @@
     - I have a hobby that I really enjoy which is football, I want to persue it as something I 
       do with my free time.
       
-    - Describe how these align with your interests and skills.
+    - Networking actually goes hand in hand with Programming, so for me I think having those 
+      two knowledge would be very powerful.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
+    - I have acually created a study schedule for myself and updated my calender to remind me. 
+      Adapting to creating at least 1 hands on practice project.
       
-    - Include any resources or support required.
+    - I've actually looked for some mentorship from people who has experience int the field of 
+      programming to seek guidance and insights from them.
 
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
+    - Long term aspirations require you to define clear objectives, I must be desciplined to 
+      continuous learning, like keep learning new stuff for example there's plenty of 
+      programming languages to learn.
       
-    - Consider additional skills, experiences, or qualifications needed.
+    - As I have included before Networking is a good concept to learn about, also data science analyst is also not bad, working on data-driven projects.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
+    - Evolution of other technologies could lead to the obsolescene of certain skills. Also 
+      work-life balance.
       
-    - Consider strategies to overcome these challenges.
+    - Since overcoming challenges is often an ongoing process you should dedicate time for continuous learning through online courses to keep up with evolving technologies. Set clear boundries between work and personal life to accomodate work-life balance.
 
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Continuous learning: adapt to a culture of learning to stay updated with new technologies and industry trends.
+    - Enroll in formal mentorship programs offered by companies, professional organizations, or educational institutions.
 
-### Submission
 
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
