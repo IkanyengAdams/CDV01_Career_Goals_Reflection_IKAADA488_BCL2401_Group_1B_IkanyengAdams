@@ -56,7 +56,10 @@
       JavaScript, React.js Python and React. I want my goal to be achieved in a period 
       of a year, to attain my goal I have create real-world projects for more practice.
       
-    - Explain the rationale behind each goal. 
+    - To obtain my certificate I need to make sure to learn and adhere to what my 
+      course teaches me, I also need to go an extra mile and consume as much knowledge 
+      as possible. I also need to create smaller side projects that are based on real- 
+      world scenarios.
 
 2. **Long-term Goals** (3-5 years and beyond): I want to expose myself to diffent programming languages, I also want to get in the field of networking and master it because I once did this Cisco course and it was very interesting.
     
@@ -102,6 +105,7 @@
     
     - Continuous learning: adapt to a culture of learning to stay updated with new 
       technologies and industry trends.
+      
     - Enroll in formal mentorship programs offered by companies, professional 
       organizations, or educational institutions.
 
